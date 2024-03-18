@@ -43,10 +43,10 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 * Example past papers will be released soon after Week 20.
 ## Past exams:
 | Year  | Paper | Questions to IGNORE! |
-| ----- | ----- | ------- | --- |
-| 20/21 | [pdf](/Past_Exams/Main_2021_answers.pdf) | 6,8,13,14|
-| 21/22 | [pdf](/Past_Exams/Main_2122_answers.pdf) | 5,7,10,17,19,20 |
-| 22/23 | [pdf](/Past_Exams/Main_2223_answers.pdf) | 8 |
+| ----- | ----- | -------------------- |
+| 20/21 | [pdf](/Past_Exams/main_2021_answers.pdf) | 6,8,13,14|
+| 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,19,20 |
+| 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 8 |
 
 Important notes:
 * We rejigged the course content a bit last year, and also again this year, so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column.
