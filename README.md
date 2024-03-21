@@ -26,7 +26,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 * Material in the labs may appear in the exam.
 * *The labs are the primary route for feedback on all aspects of the course, including lectures, any question sheets and exams, not just the labs!!!!*
 * The lab exercises will be released in the /labs/ folder.
-@@ _Lab1 is now available_ @@
+@@ _Lab4 is now available_ @@
 * TAs: Xuan kong, Zheng Dong, Lucas Mockeridge, Harleen Gulati, Austin Long, Deep Pawar, Jeein Park
 
 ## Teams:
@@ -40,8 +40,15 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 
 ## Past exam papers:
-* Example past papers will be released soon after Week 20.
+| Year  | Paper | Questions to IGNORE! |
+| ----- | ----- | -------------------- |
+| 20/21 | [pdf](/Past_Exams/main_2021_answers.pdf) | 6,8,13,14|
+| 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,19,20 |
+| 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 8 |
 
+Important notes:
+* We rejigged the course content a bit last year, and also again this year, so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column.
+* The 20/21 exam was exceptionally short.
 ---
 
 ## Weekly Lecture materials
