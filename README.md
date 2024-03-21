@@ -109,7 +109,9 @@ Reading Week
 #### Week 21: 18/03/2024
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
-| Problem Sheet 03 (Self/Group study) | [[pdf]](released on Thursday) |
+| MM05. 1D Fourier Transform | [[pdf]](Slides/COMS20011-MMLec05.pdf) |
+| Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
+| Problem Sheet 03 (Solutions) | [[pdf]]  |
 
 
 #### Week 22: 15/04/2024
