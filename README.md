@@ -110,6 +110,7 @@ Reading Week
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | MM05. 1D Fourier Transform | [[pdf]](Slides/COMS20011-MMLec05.pdf) |
+| MM06. More about Features | [[pdf]](Slides/COMS20011-MMLec06.pdf) |
 | Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
 | Problem Sheet 03 (Solutions) | [[pdf]]  |
 
