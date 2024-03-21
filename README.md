@@ -109,7 +109,7 @@ Reading Week
 #### Week 21: 18/03/2024
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
-| MM04. Signals & Frequencies| [[pdf]](Slides/COMS20011-MMLec05.pdf) |
+| MM05. 1D Fourier Transform | [[pdf]](Slides/COMS20011-MMLec05.pdf) |
 | Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
 | Problem Sheet 03 (Solutions) | [[pdf]]  |
 
