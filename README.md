@@ -113,7 +113,7 @@ Reading Week
 | MM06. More about Features | [[pdf]](Slides/COMS20011-MMLec06.pdf) |
 | Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
 | Problem Sheet 03 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM03-Solutions.pdf)  |
-
+| Code to play with  |  [[sines.py]](ProblemSheets/sines.py)   |
 
 #### Week 22: 15/04/2024
 #### Week 23: 22/04/2024
