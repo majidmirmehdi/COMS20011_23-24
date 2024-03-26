@@ -116,12 +116,16 @@ Reading Week
 | Code to play with  |  [[sines.py]](ProblemSheets/sines.py)   |
 
 #### Week 22: 15/04/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
 | MM07. PCA | [[pdf]]|
 | MM08. Convolution | [[pdf]]|
 | Problem Sheet 04 (Self/Group study) | [[pdf]]  |
 | Problem Sheet 04 - Answers          | [[pdf]]  |
 
 #### Week 23: 22/04/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
 | QUIZ!!! |  link to come |
 
 #### Week 24: 29/04/2024
