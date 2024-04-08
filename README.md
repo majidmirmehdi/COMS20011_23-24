@@ -26,7 +26,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 * Material in the labs may appear in the exam.
 * *The labs are the primary route for feedback on all aspects of the course, including lectures, any question sheets and exams, not just the labs!!!!*
 * The lab exercises will be released in the /labs/ folder.
-@@ _Lab1 is now available_ @@
+@@ _Lab4 is now available_ @@
 * TAs: Xuan kong, Zheng Dong, Lucas Mockeridge, Harleen Gulati, Austin Long, Deep Pawar, Jeein Park
 
 ## Teams:
@@ -34,15 +34,21 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Exam info:
 * The course is assessed 100% by a multiple-choice exam.
-* The exam will have ?? questions, and will be 2 hours. It does require a calculator.
+* The exam will have 20 questions, worth 100 marks, and will be 2 hours. It does require a calculator (which must be non-programmable).
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
-* There will be a formulae sheet with the exam.
-* We do NOT allow cheat-sheets for this exam.
+* The exam is closed-book (so no additional materials are allowed). There will be a formulae sheet with the exam.
 
 
 ## Past exam papers:
-* Example past papers will be released soon after Week 20.
+| Year  | Paper | Questions to IGNORE! |
+| ----- | ----- | -------------------- |
+| 20/21 | [pdf](/Past_Exams/main_2021_answers.pdf) | 6,8,13,14|
+| 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,19,20 |
+| 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 8 |
 
+Important notes:
+* We rejigged the course content a bit last year, and also again this year, so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column.
+* The 20/21 exam was exceptionally short.
 ---
 
 ## Weekly Lecture materials
@@ -50,7 +56,6 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 ### Introduction (Majid)
 
 #### Week 13: 22/01/2024
-
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
 | MM01. Intro to COMS20011 - a bit fishy! | [[pdf]](Slides/COMS20011-MMLec01.pdf) |
@@ -71,10 +76,56 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | CK02.  Mathematical prerequisites, Series, Logs and exponentials | [[pdf]](notes/prereqs.pdf) |
+| CK03.  Mathematical prerequisites, Vectors, Matrices and Kronecker delta | [[pdf]](notes/prereqs.pdf) |
 
 #### Week 16: 12/02/2024
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
+| CK04.  Problems from mathematical prerequisites. Regression, loss and curve fitting | [[pdf]](notes/regression.pdf) |
+| CK05.  Regression, loss and curve fitting, one dimensional | [[pdf]](notes/regression.pdf) |
+
+#### Week 17: 19/02/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| CK06.  Regression, loss and curve fitting, many dimensions | [[pdf]](notes/regression.pdf) |
+| CK07.  Maximum likelihood | [[pdf]](notes/maximum_likelihood.pdf) |
+| Probabilistic Machine Learning | [[pdf]](notes/probabilistic&#32;machine&#32;learning.pdf) |
+| Mathematics for Machine Learning | [[pdf]](notes/mml-book.pdf) |
+
+#### Week 18: 26/02/2024
+Reading Week
+
+#### Week 19: 04/03/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| CK08 and CK09.  Maximum likelihood | [[pdf]](notes/maximum_likelihood.pdf) |
+
+#### Week 20: 11/03/2024
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM04. Signals & Frequencies| [[pdf]](Slides/COMS20011-MMLec04.pdf) |
 
 
-#### Regression, maximum likelihood and classification (Charles)
+#### Week 21: 18/03/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| MM05. 1D Fourier Transform | [[pdf]](Slides/COMS20011-MMLec05.pdf) |
+| MM06. More about Features | [[pdf]](Slides/COMS20011-MMLec06.pdf) |
+| Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
+| Problem Sheet 03 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM03-Solutions.pdf)  |
+| Code to play with  |  [[sines.py]](ProblemSheets/sines.py)   |
+
+#### Week 22: 15/04/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| MM07. PCA | [[pdf]]|
+| MM08. Convolution | [[pdf]]|
+| Problem Sheet 04 (Self/Group study) | [[pdf]]  |
+| Problem Sheet 04 - Answers          | [[pdf]]  |
+
+#### Week 23: 22/04/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| QUIZ!!! |  link to come |
+
+#### Week 24: 29/04/2024
