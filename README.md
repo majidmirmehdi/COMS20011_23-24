@@ -119,14 +119,17 @@ Reading Week
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | MM07. PCA | [[pdf]](Slides/COMS20011-MMLec07.pdf)|
-| MM08. Convolution | [[pdf]]|
-| Problem Sheet 04 (Self/Group study) | [[pdf]]  |
+| MM08. Convolution | [[pdf]](Slides/COMS20011-MMLec08.pdf)|
+| Problem Sheet 04 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM04.pdf)  |
 | Problem Sheet 04 - Answers          | [[pdf]]  |
-| Code to play with  |  [[code]]  |
+| Code to play with  |  [[sobel.py]](ProblemSheets/sobel.py)  [[sobel.m]](ProblemSheets/sobel.m) |
 
 #### Week 23: 22/04/2024
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
-| QUIZ!!! |  link to come |
+| In-Class QUIZ!!! Thursday 25th April. | Prizes for Top 3 scorers!  |
+| NO CLASS ON FRIDAY 26th. | NO CLASS ON FRIDAY 26th. |
 
 #### Week 24: 29/04/2024
+| In-Class Q&A session (Majid's part of unit). | Come with your Questions!  |
+| NO CLASS ON FRIDAY May 3rd. | NO CLASS ON FRIDAY May 3rd. |
