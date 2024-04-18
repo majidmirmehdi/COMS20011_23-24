@@ -118,7 +118,7 @@ Reading Week
 #### Week 22: 15/04/2024
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
-| MM07. PCA | [[pdf]](Slides/COMS20011-MMLec07.pdf) |
+| MM07. PCA | [[pdf]](Slides/COMS20011-MMLec07.pdf)|
 | MM08. Convolution | [[pdf]]|
 | Problem Sheet 04 (Self/Group study) | [[pdf]]  |
 | Problem Sheet 04 - Answers          | [[pdf]]  |
