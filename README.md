@@ -122,6 +122,7 @@ Reading Week
 | MM08. Convolution | [[pdf]]|
 | Problem Sheet 04 (Self/Group study) | [[pdf]]  |
 | Problem Sheet 04 - Answers          | [[pdf]]  |
+| Code to play with  |  [[code]]  |
 
 #### Week 23: 22/04/2024
 | Lecture, etc. | Slides, etc. |
