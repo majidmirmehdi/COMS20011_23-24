@@ -112,9 +112,20 @@ Reading Week
 | MM05. 1D Fourier Transform | [[pdf]](Slides/COMS20011-MMLec05.pdf) |
 | MM06. More about Features | [[pdf]](Slides/COMS20011-MMLec06.pdf) |
 | Problem Sheet 03 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM03.pdf)  |
-| Problem Sheet 03 (Solutions) | [[pdf]]  |
-
+| Problem Sheet 03 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM03-Solutions.pdf)  |
+| Code to play with  |  [[sines.py]](ProblemSheets/sines.py)   |
 
 #### Week 22: 15/04/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| MM07. PCA | [[pdf]]|
+| MM08. Convolution | [[pdf]]|
+| Problem Sheet 04 (Self/Group study) | [[pdf]]  |
+| Problem Sheet 04 - Answers          | [[pdf]]  |
+
 #### Week 23: 22/04/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| QUIZ!!! |  link to come |
+
 #### Week 24: 29/04/2024
