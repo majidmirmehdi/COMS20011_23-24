@@ -131,5 +131,7 @@ Reading Week
 | NO CLASS ON FRIDAY 26th. | NO CLASS ON FRIDAY 26th. |
 
 #### Week 24: 29/04/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
 | In-Class Q&A session (Majid's part of unit). | Come with your Questions!  |
 | NO CLASS ON FRIDAY May 3rd. | NO CLASS ON FRIDAY May 3rd. |
