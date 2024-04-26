@@ -121,13 +121,13 @@ Reading Week
 | MM07. PCA | [[pdf]](Slides/COMS20011-MMLec07.pdf)|
 | MM08. Convolution | [[pdf]](Slides/COMS20011-MMLec08.pdf)|
 | Problem Sheet 04 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM04.pdf)  |
-| Problem Sheet 04 - Answers          | [[pdf]]  |
+| Problem Sheet 04 - Answers          | [[pdf]](ProblemSheets/ProblemSheet-MM04-Solutions.pdf)   |
 | Code to play with  |  [[sobel.py]](ProblemSheets/sobel.py)  [[sobel.m]](ProblemSheets/sobel.m) |
 
 #### Week 23: 22/04/2024
 | INFO | INFO |
 | ------- | ------ |
-| In-Class [[QUIZ!!!]](https://www.kahoot.com)  Thursday 25th April. | Prizes for Top 3 scorers!  |
+| In-Class [[QUIZ!!!]](https://www.kahoot.it)  Thursday 25th April. | Prizes for Top 3 scorers!  |
 | NO CLASS ON FRIDAY 26th. | NO CLASS ON FRIDAY 26th. |
 
 #### Week 24: 29/04/2024
