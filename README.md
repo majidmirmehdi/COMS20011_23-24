@@ -43,7 +43,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | Year  | Paper | Questions to IGNORE! |
 | ----- | ----- | -------------------- |
 | 20/21 | [pdf](/Past_Exams/main_2021_answers.pdf) | 6,8,13,14|
-| 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,19,20 |
+| 21/22 | [pdf](/Past_Exams/main_2122_answers.pdf) | 5,7,10,17,18,19,20 |
 | 22/23 | [pdf](/Past_Exams/main_2223_answers.pdf) | 2,3,8 |
 
 Important notes:
